@@ -46,5 +46,12 @@ Current Ripple (∆I) = 2A
 <img width="407" height="457" alt="image" src="https://github.com/user-attachments/assets/c6083c5a-a698-4499-97d4-528c43ab9ef4" />
 
 ## Simulation
+
+<img width="1920" height="834" alt="PEEXP6 CD" src="https://github.com/user-attachments/assets/129d629c-a389-4e69-9761-c9c1fec25fe4" />
+
 ## Output
+
+<img width="1920" height="847" alt="PEEXP6 WF" src="https://github.com/user-attachments/assets/263e6930-83c8-4267-942e-cd9c0974e8ef" />
+
 ## Result
+STEP UP CHOPPER IS DESIGNED AND SIMULATED IN MATLAB SUCCESSFULLY.
